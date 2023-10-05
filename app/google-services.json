@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "79402805915",
+    "firebase_url": "https://healthier-9d1ae-default-rtdb.firebaseio.com",
+    "project_id": "healthier-9d1ae",
+    "storage_bucket": "healthier-9d1ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79402805915:android:f81ae7f0fb9db86116743e",
+        "android_client_info": {
+          "package_name": "com.Healthier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79402805915-b6t7isimjh3n6pc413ubtjm751s2p178.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNK2_yHs_5fhHyh4nvyIbtrytjqdrQ50Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79402805915-b6t7isimjh3n6pc413ubtjm751s2p178.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
